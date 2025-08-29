@@ -2,8 +2,9 @@
 ---
 ## Data Overview
   #### A paired snapshot of the top 1,300+ cryptocurrencies, captured on December 6, 2017 and January 6, 2018. Use these files to explore market-cap shifts, price volatility, and short-term momentum across the crypto ecosystem.
----
 
+
+---
 # Applying CRISP-DM to the Crypto Snapshots (Dec 2017 → Jan 2018)
 
 Below we map each CRISP-DM phase to our paired crypto datasets (`coinmarketcap_06122017.csv` and `coinmarketcap_06012018.csv`).
