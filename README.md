@@ -88,3 +88,13 @@ Depending on desired insights, choose modeling approaches:
 - Expose results via:  
   - A dashboard (Plotly Dash or Streamlit) showing top movers and volatility clusters  
   - Automated email or Slack notifications for designated stakeholders.
+
+#DASHB
+![CryptoMarket](https://github.com/user-attachments/assets/b2e6d87d-0982-4fe1-9077-57aa1749025e)
+
+
+
+
+
+
+    
